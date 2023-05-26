@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ### 仓库状态
-![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=UniverseHappiness&show_icons=true&theme=tokyonight)
+
+![all-smile's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=UniverseHappiness&show_icons=true&theme=tokyonight)
 ### 主页访问量
 ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
 ### 常用语言占比
